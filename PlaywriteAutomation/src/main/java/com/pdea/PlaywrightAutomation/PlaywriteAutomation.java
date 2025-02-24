@@ -99,7 +99,7 @@ public class PlaywriteAutomation {
 	        page.mouse().up();
 
 	        Locator outputElement = page.locator("#rangeSuccess");
-
+ 
 	        String outputText = outputElement.textContent();
 
 	        softAssert.assertEquals(outputText, "95", "Slider value does not equal 95");
