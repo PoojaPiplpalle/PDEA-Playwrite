@@ -53,9 +53,8 @@ public class PlaywriteAutomation {
 	        browser = playwright.chromium().connect(cdpUrl);
 
 	        page = browser.newPage();
-//	       browser=playwright.chromium().launch();
-//	       page = browser.newPage();
-//	       page.navigate(cdpUrl);
+	        System.out.println("Launch chrome");
+	        
 	        
 	    }
 
