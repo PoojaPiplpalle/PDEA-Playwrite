@@ -2,40 +2,40 @@
 <testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-22T18:52:22 IST" name="Default suite" finished-at="2025-02-22T18:53:24 IST" duration-ms="61600">
+  <suite started-at="2025-02-28T15:34:14 IST" name="Default suite" finished-at="2025-02-28T15:35:27 IST" duration-ms="72804">
     <groups>
     </groups>
-    <test started-at="2025-02-22T18:52:22 IST" name="Default test" finished-at="2025-02-22T18:53:24 IST" duration-ms="61600">
+    <test started-at="2025-02-28T15:34:14 IST" name="Default test" finished-at="2025-02-28T15:35:27 IST" duration-ms="72804">
       <class name="com.pdea.PlaywrightAutomation.PlaywriteAutomation">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-22T18:52:22 IST" name="setup" finished-at="2025-02-22T18:52:49 IST" duration-ms="26536" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-28T15:34:14 IST" name="setup" finished-at="2025-02-28T15:34:50 IST" duration-ms="36431" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_scenario1()[pri:1, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-22T18:52:49 IST" name="test_scenario1" finished-at="2025-02-22T18:52:53 IST" duration-ms="4055" status="PASS">
+        <test-method signature="test_scenario1()[pri:1, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-28T15:34:50 IST" name="test_scenario1" finished-at="2025-02-28T15:34:53 IST" duration-ms="2785" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_scenario1 -->
-        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-22T18:52:53 IST" name="quitDriver" finished-at="2025-02-22T18:52:53 IST" duration-ms="26" status="PASS">
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-28T15:34:53 IST" name="quitDriver" finished-at="2025-02-28T15:34:53 IST" duration-ms="65" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-22T18:52:53 IST" name="setup" finished-at="2025-02-22T18:53:03 IST" duration-ms="9621" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-28T15:34:53 IST" name="setup" finished-at="2025-02-28T15:35:03 IST" duration-ms="9834" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_scenario2()[pri:2, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-22T18:53:03 IST" name="test_scenario2" finished-at="2025-02-22T18:53:08 IST" duration-ms="4985" status="PASS">
+        <test-method signature="test_scenario2()[pri:2, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-28T15:35:03 IST" name="test_scenario2" finished-at="2025-02-28T15:35:08 IST" duration-ms="5360" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_scenario2 -->
-        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-22T18:53:08 IST" name="quitDriver" finished-at="2025-02-22T18:53:08 IST" duration-ms="56" status="PASS">
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-28T15:35:08 IST" name="quitDriver" finished-at="2025-02-28T15:35:08 IST" duration-ms="78" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-22T18:53:08 IST" name="setup" finished-at="2025-02-22T18:53:18 IST" duration-ms="9803" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-28T15:35:08 IST" name="setup" finished-at="2025-02-28T15:35:19 IST" duration-ms="10364" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_scenario3()[pri:3, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-22T18:53:18 IST" name="test_scenario3" finished-at="2025-02-22T18:53:24 IST" duration-ms="6331" status="FAIL">
+        <test-method signature="test_scenario3()[pri:3, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-28T15:35:19 IST" name="test_scenario3" finished-at="2025-02-28T15:35:26 IST" duration-ms="7683" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[The following asserts failed:
@@ -46,7 +46,7 @@ Error message not as expected expected [Please fill out this field.] but found [
 Error message not as expected expected [Please fill out this field.] but found [null]
 at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)
 at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)
-at com.pdea.PlaywrightAutomation.PlaywriteAutomation.test_scenario3(PlaywriteAutomation.java:151)
+at com.pdea.PlaywrightAutomation.PlaywriteAutomation.test_scenario3(PlaywriteAutomation.java:150)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
@@ -79,7 +79,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_scenario3 -->
-        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-22T18:53:24 IST" name="quitDriver" finished-at="2025-02-22T18:53:24 IST" duration-ms="73" status="PASS">
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.pdea.PlaywrightAutomation.PlaywriteAutomation@4f6ee6e4]" started-at="2025-02-28T15:35:27 IST" name="quitDriver" finished-at="2025-02-28T15:35:27 IST" duration-ms="51" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
